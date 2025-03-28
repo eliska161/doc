@@ -22,6 +22,6 @@ Ja, o-Tid er avhengig av at du har et arrangement i Eventor.
 ---
 
 ### Hvor finner jeg mere info om o-Tid
-For mere informasjon kan du besøke [o-Tid's offisielle dokumentajson](https://doc.o-tid.com)
+For mere informasjon kan du besøke [o-Tid's offisielle dokumentasjon](https://doc.o-tid.com)
 
 
