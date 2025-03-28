@@ -12,7 +12,7 @@ Per nå er det ingen faste kostnader for å bruke o-Tid.
 ---
 
 ### Hvordan skaffer jeg tilgang til o-Tid?
-o-Tid ligger fortsatt i utviklingsfasen, og vil foreløpig kun være mulig å brukes av klubber med spesiell invitasjon. Vi håper på å åpne o-Tid til alle Sommer/Høst 2025.
+o-Tid ligger fortsatt i utviklingsfasen, og vil foreløpig kun være mulig å brukes av klubber med spesiell invitasjon. Vi håper på å få åpnet o-Tid til alle innen høsten 2025.
 
 ---
 
